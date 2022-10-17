@@ -10,5 +10,5 @@ License: What license is it under?
 Encoding: UTF-8
 LazyData: true
 RaxygenNote: 7.1.1
-Imports: ggplot2
+Depends: ggplot2
 RoxygenNote: 7.1.1
